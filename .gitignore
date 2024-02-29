@@ -1,0 +1,4 @@
+/events
+/layers/**/*.class
+*lock.json
+crc/node-modules/*
